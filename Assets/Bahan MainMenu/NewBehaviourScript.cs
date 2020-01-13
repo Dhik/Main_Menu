@@ -1,0 +1,28 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class NewBehaviourScript : MonoBehaviour
+{
+    public GameObject MainPanel;
+    public GameObject MenuPanel;
+    public GameObject CreditsPanel;
+    public GameObject HowtoPanel;
+    public GameObject MenPanel;
+    public GameObject CreditPanel;
+    public GameObject HowtPanel;
+    public GameObject MePanel;
+    public GameObject CrediPanel;
+    public GameObject HowPanel;
+    // Start is called before the first frame update
+    void Start()
+    {
+        
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        
+    }
+}
